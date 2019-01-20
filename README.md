@@ -1,6 +1,6 @@
 # Mary Oliver Tweets
 
-This repository contains tweet IDs for tweets that mentioned "Mary Oliver" -- upper- or lower-case, with or without a hashtag -- in the two days following her death, January 17-19, 2019.
+This repository contains tweet IDs for tweets that mentioned "Mary Oliver" in the two days following her death, January 17-19, 2019.
 
 **Total Number of Tweets Collected:** 117,055                         
 **Total Number of Users:**                   78,093                          
